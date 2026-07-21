@@ -119,13 +119,13 @@ https://github.com/DeepBreath222/banking-data-platform
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=DeepBreath222&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=VishalSoma2229&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepBreath222&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalSoma2229&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
