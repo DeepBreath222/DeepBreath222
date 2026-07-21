@@ -109,11 +109,11 @@ https://github.com/DeepBreath222/banking-data-platform
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=DeepBreath222&theme=blueberry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=VishalSoma2229&theme=blueberry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=DeepBreath222&theme=blueberry&hide_border=true)
+![](https://streak-stats.demolab.com?user=VishalSoma2229&theme=blueberry&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepBreath222&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook,dockerfile,makefile&theme=blueberry&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishalSoma2229&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook,dockerfile,makefile&theme=blueberry&hide_border=true)
 
 ---
 
@@ -131,4 +131,4 @@ https://github.com/DeepBreath222/banking-data-platform
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=DeepBreath222&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=VishalSoma2229&style=flat-square&color=blue)
